@@ -43,11 +43,30 @@
 ## 🔗 Official Resources
 
 - 📄 **Contract**: [`0xf7412714d2b4ab8e16b977886d0257d1c9ec4368`](https://basescan.org/token/0xf7412714d2b4ab8e16b977886d0257d1c9ec4368)
+- 📊 **Liquidity Pool**: [GeckoTerminal Pool](https://www.geckoterminal.com/base/pools/0x55c6288b598610be51dd9165620b1b552fb45b5f)
 - 🗞 **News**: [Telegram Channel](https://t.me/tmboyvibes)
 - 💬 **Community Chat**: [Telegram Group](https://t.me/tmboychat)
 - 💻 **GitHub**: [github.com/botsradar/tmboy](https://github.com/botsradar/tmboy)
 
 ---
+
+---
+
+## 🔐 Liquidity Lock Certificate
+
+The liquidity for **TMBOY Vibes** is securely locked via **DxLock V3 Liquidity Locker** until **February 20, 2026**.
+
+- 🔗 [View Certificate on DxLock](https://www.dx.app/dxlock/view/liquidity-locker-v3?address=0x2ad66e5329826aaf65da0bf2a48094de2b3474ed&chain=8453)
+- 🧾 Certificate: ![Liquidity Lock Certificate](./dxlock_certificate_tmboy.png)
+
+**Summary:**
+- **Locked Tokens:** 0.119 WETH / 82,875.026 TMBOY
+- **Lock Duration:** June 26, 2025 – February 20, 2026
+- **Owner Address:** [`0x4DF0...3c1b`](https://basescan.org/address/0x4DF05380f162123184e2809a86004D806F053c1b)
+- **Locker Address:** [`0x2ad6...74ed`](https://www.dx.app/dxlock/view/liquidity-locker-v3?address=0x2ad66e5329826aaf65da0bf2a48094de2b3474ed&chain=8453)
+
+> ✅ Liquidity locked and publicly verifiable on Base network via DxLock.
+
 
 > ⚡️ This is a community-driven meme token. No promises, no roadblocks, just pure tomboy vibes. Join us, meme with us, vibe with us.
 
