@@ -1,0 +1,12 @@
+{
+  "name": "TMBOY Vibes",
+  "symbol": "TMBOY",
+  "decimals": 18,
+  "chainId": 8453,
+  "address": "0xf7412714d2b4ab8e16b977886d0257d1c9ec4368",
+  "type": "ERC20",
+  "logoURI": "logo.png",
+  "description": "TMBOY is a playful meme token inspired by a tomboy character, designed for DeFi fun and community engagement.",
+  "website": "https://bot.defipool.club",
+  "explorer": "https://basescan.org/token/0xf7412714d2b4ab8e16b977886d0257d1c9ec4368"
+}
