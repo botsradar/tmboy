@@ -62,7 +62,9 @@ The liquidity for **TMBOY Vibes** is securely locked via **DxLock V3 Liquidity L
 **Summary:**
 - **Locked Tokens:** 0.119 WETH / 82,875.026 TMBOY
 - **Lock Duration:** June 26, 2025 – February 20, 2026
-- **Owner Address:** [`0x4DF0...3c1b`](https://basescan.org/address/0x4DF05380f162123184e2809a86004D806F053c1b)
+- **Owner Address:** [`0x4DF0...3c1b`](https://basescan.org/address/0x4DF05380f162123184e2809a86004D806F053c1b) (ownership renounced)
+- Ownership of the token contract has been renounced. No one has control over contract settings or the locked liquidity.
+- This means that no party can alter the contract or withdraw the locked liquidity early, ensuring safety for all holders.
 - **Locker Address:** [`0x2ad6...74ed`](https://www.dx.app/dxlock/view/liquidity-locker-v3?address=0x2ad66e5329826aaf65da0bf2a48094de2b3474ed&chain=8453)
 
 > ✅ Liquidity locked and publicly verifiable on Base network via DxLock.
