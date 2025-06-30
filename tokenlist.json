@@ -1,6 +1,6 @@
 {
   "name": "TMBOY Token List",
-  "logoURI": "https://cdn.jsdelivr.net/gh/botsradar/tmboy@main/logo.png",
+  "logoURI": "https://cdn.jsdelivr.net/gh/botsradar/tmboy@main/logo_tr.png",
   "timestamp": "2025-06-26T09:50:00+00:00",
   "version": {
     "major": 1,
@@ -14,7 +14,7 @@
       "name": "TMBOY Vibes",
       "symbol": "TMBOY",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/botsradar/tmboy@main/logo.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/botsradar/tmboy@main/logo_tr.png"
     }
   ]
 }
