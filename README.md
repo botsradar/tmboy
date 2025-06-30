@@ -41,7 +41,7 @@
 ---
 
 ## 🔗 Official Resources
-
+- 🐦 **Twitter**: [DeFiPoolClub on X](https://x.com/DeFiPoolClub)
 - 📄 **Contract**: [`0xf7412714d2b4ab8e16b977886d0257d1c9ec4368`](https://basescan.org/token/0xf7412714d2b4ab8e16b977886d0257d1c9ec4368)
 - 📊 **Liquidity Pool**: [GeckoTerminal Pool](https://www.geckoterminal.com/base/pools/0x55c6288b598610be51dd9165620b1b552fb45b5f)
 - 🗞 **News**: [Telegram Channel](https://t.me/tmboyvibes)
