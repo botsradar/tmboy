@@ -47,7 +47,7 @@
 - 🗞 **News**: [Telegram Channel](https://t.me/tmboyvibes)
 - 💬 **Community Chat**: [Telegram Group](https://t.me/tmboychat)
 - 💻 **GitHub**: [github.com/botsradar/tmboy](https://github.com/botsradar/tmboy)
-
+- 💻 **YouTube**: [https://youtube.com/shorts/rivyRn31t5Y?si=CsnrLMnkt3NpvbZt
 ---
 
 ---
