@@ -49,6 +49,7 @@
 - 💻 **GitHub**: [github.com/botsradar/tmboy](https://github.com/botsradar/tmboy)
 - 🎥 **YouTube**: [Watch on YouTube](https://youtube.com/shorts/rivyRn31t5Y?si=CsnrLMnkt3NpvbZt)
 - 🌐 **Website**: [bot.defipool.club](https://bot.defipool.club/)
+- 📄 **Whitepaper**: [View Whitepaper](https://github.com/botsradar/tmboy/blob/main/whitepaper.pdf)
 ---
 
 ---
