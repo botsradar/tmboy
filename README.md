@@ -14,6 +14,11 @@
 - 🎮 Fun and casual DeFi engagement with optional burning events announced in Telegram.
 
 ---
+## 📊 Token Stats (as of July 2025)
+
+- **Max Total Supply:** 100,000 TMBOY
+- **Holders:** 46,347
+- **Total Transfers:** 47,015
 
 ## 🗺 Roadmap & Key Milestones
 
@@ -48,9 +53,34 @@
 - 💬 **Community Chat**: [Telegram Group](https://t.me/tmboychat)
 - 💻 **GitHub**: [github.com/botsradar/tmboy](https://github.com/botsradar/tmboy)
 - 🎥 **YouTube**: [Watch on YouTube](https://youtube.com/shorts/rivyRn31t5Y?si=CsnrLMnkt3NpvbZt)
-- 🌐 **Website**: [bot.defipool.club](https://bot.defipool.club/)
+- 🌐 **Website**: 🇺🇸 [English](https://bot.defipool.club/en/token_tmboy_vibes.html)
 - 📄 **Whitepaper**: [View Whitepaper](https://github.com/botsradar/tmboy/blob/main/whitepaper.pdf)
+- 🕹 **Discord**: [Join Discord Community](https://discord.gg/6ps9WmC7xt)
 ---
+---
+
+## 🌏 Multilingual Website
+
+Explore the official TMBOY Vibes pages in your language!
+
+- 🇷🇺 [Русский](https://bot.defipool.club/ru/token_tmboy_vibes.html)
+- 🇺🇸 [English](https://bot.defipool.club/en/token_tmboy_vibes.html)
+- 🇮🇳 [हिन्दी](https://bot.defipool.club/hi/token_tmboy_vibes.html)
+- 🇮🇷 [فارسی](https://bot.defipool.club/fa/token_tmboy_vibes.html)
+- 🇵🇹 [Português](https://bot.defipool.club/pt/token_tmboy_vibes.html)
+- 🇺🇦 [Українська](https://bot.defipool.club/uk/token_tmboy_vibes.html)
+- 🇹🇷 [Türkçe](https://bot.defipool.club/tr/token_tmboy_vibes.html)
+- 🇺🇿 [O‘zbek](https://bot.defipool.club/uz/token_tmboy_vibes.html)
+- 🇻🇳 [Tiếng Việt](https://bot.defipool.club/vi/token_tmboy_vibes.html)
+- 🇦🇪 [العربية](https://bot.defipool.club/ar/token_tmboy_vibes.html)
+- 🇮🇩 [Bahasa Indonesia](https://bot.defipool.club/id/token_tmboy_vibes.html)
+- 🇪🇸 [Español](https://bot.defipool.club/es/token_tmboy_vibes.html)
+- 🇩🇪 [Deutsch](https://bot.defipool.club/de/token_tmboy_vibes.html)
+- 🇮🇹 [Italiano](https://bot.defipool.club/it/token_tmboy_vibes.html)
+- 🇫🇷 [Français](https://bot.defipool.club/fr/token_tmboy_vibes.html)
+- 🇹🇭 [ไทย](https://bot.defipool.club/th/token_tmboy_vibes.html)
+
+Find the language selector on the site footer for all available translations.
 
 ---
 
