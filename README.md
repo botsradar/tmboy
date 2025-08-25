@@ -48,7 +48,9 @@
 ## 🔗 Official Resources
 - 🐦 **Twitter**: [DeFiPoolClub on X](https://x.com/DeFiPoolClub)
 - 📄 **Contract**: [`0xf7412714d2b4ab8e16b977886d0257d1c9ec4368`](https://basescan.org/token/0xf7412714d2b4ab8e16b977886d0257d1c9ec4368)
-- 📊 **Liquidity Pool**: [GeckoTerminal Pool](https://www.geckoterminal.com/base/pools/0x55c6288b598610be51dd9165620b1b552fb45b5f)
+- 📊 **Liquidity Pools**
+  - **Uniswap V3 (Base)**: [GeckoTerminal](https://www.geckoterminal.com/base/pools/0x55c6288b598610be51dd9165620b1b552fb45b5f)
+  - **Uniswap V2 (Base)**: [GeckoTerminal](https://www.geckoterminal.com/base/pools/0x580982751c5e66ad780ad563994cf271803bfbe4)
 - 🗞 **News**: [Telegram Channel](https://t.me/tmboyvibes)
 - 💬 **Community Chat**: [Telegram Group](https://t.me/tmboychat)
 - 💻 **GitHub**: [github.com/botsradar/tmboy](https://github.com/botsradar/tmboy)
